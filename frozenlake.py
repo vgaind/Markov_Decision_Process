@@ -1,9 +1,3 @@
-"""
-Solving FrozenLake8x8 environment using Value-Itertion.
-
-
-Author : Moustafa Alzantot (malzantot@ucla.edu)
-"""
 import numpy as np
 import gym
 from gym import wrappers
